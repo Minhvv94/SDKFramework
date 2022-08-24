@@ -1,6 +1,6 @@
 //
 //  Sdk.m
-//  SdkFrameworkDemo
+//  SdkFramework
 //
 //  Created by Minh Vu on 24/08/2022.
 //
